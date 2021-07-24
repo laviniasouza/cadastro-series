@@ -1,0 +1,16 @@
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\bin\Debug\net5.0\cadastro-series.exe
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\bin\Debug\net5.0\cadastro-series.deps.json
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\bin\Debug\net5.0\cadastro-series.runtimeconfig.json
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\bin\Debug\net5.0\cadastro-series.runtimeconfig.dev.json
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\bin\Debug\net5.0\cadastro-series.dll
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\bin\Debug\net5.0\ref\cadastro-series.dll
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\bin\Debug\net5.0\cadastro-series.pdb
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\obj\Debug\net5.0\cadastro-series.csproj.AssemblyReference.cache
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\obj\Debug\net5.0\cadastro-series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\obj\Debug\net5.0\cadastro-series.AssemblyInfoInputs.cache
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\obj\Debug\net5.0\cadastro-series.AssemblyInfo.cs
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\obj\Debug\net5.0\cadastro-series.csproj.CoreCompileInputs.cache
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\obj\Debug\net5.0\cadastro-series.dll
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\obj\Debug\net5.0\ref\cadastro-series.dll
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\obj\Debug\net5.0\cadastro-series.pdb
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET Fundamentals Bootcamp\11 - Criando um APP simples de cadastro de séries em .NET\cadastro-series\obj\Debug\net5.0\cadastro-series.genruntimeconfig.cache
